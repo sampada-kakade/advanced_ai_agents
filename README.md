@@ -4,7 +4,7 @@
 This repository contains implementations and experiments with advanced AI agents.  
 It explores cutting‑edge techniques in autonomous decision‑making, reasoning, and multi‑agent collaboration, designed for developers and researchers working with modern AI frameworks.
 
----
+------
 
 ## ✨ Features
 - Modular agent architecture for easy extension
